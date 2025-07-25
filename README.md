@@ -30,7 +30,7 @@ A typical page of contains activities that look like this:
 ## Installation
 
 ```
-go install github.com/meagar/himama-dl@latest
+go install github.com/Shoogee/himama-dl@latest
 ```
 
 ## Usage
