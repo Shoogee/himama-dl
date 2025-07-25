@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"regexp"
 
-	"github.com/meagar/himama-dl/internal/himama"
+	"github.com/Shoogee/himama-dl/internal/himama"
 )
 
 func main() {
